@@ -51,8 +51,8 @@ body {
   left: 0;
   right: 0;
   height: var(--navbar-h);
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(8px);
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
   border-bottom: 1px solid var(--border);
   z-index: 1000;
   transition: box-shadow 0.3s;
